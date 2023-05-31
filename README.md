@@ -4,3 +4,5 @@ This is a source code for task 1 in information security virus work
 ![image](https://github.com/abdelfattah99/Security-Task1/assets/128923114/0a01f99e-d6ed-4289-a0cf-ebec92abd208)
 ![image](https://github.com/abdelfattah99/Security-Task1/assets/128923114/e89c7cc8-339b-40ef-95a7-29571954239f)
 ![image](https://github.com/abdelfattah99/Security-Task1/assets/128923114/6659092e-8b56-46f8-bdc7-2e90713a969e)
+![image](https://github.com/abdelfattah99/Security-Task1/assets/128923114/3e293435-820e-4637-bfb4-587a9fe2c29d)
+![image](https://github.com/abdelfattah99/Security-Task1/assets/128923114/40797dc5-82b3-4081-adc0-5d9d1c44ad7f)
